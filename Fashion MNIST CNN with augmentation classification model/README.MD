@@ -6,3 +6,4 @@
 ### This is an updated model with augmentation using keras ImageDataGenerator
 ### The training accuracy is 85.43% and the test accuracy is 87.92 % 
 ### The above accuracy proves that this model does not overfit and val_accuracy > train_accuracy
+### Note : The model has been trained without the use of GPU
