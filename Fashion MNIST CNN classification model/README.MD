@@ -5,3 +5,4 @@
 ### The dataset can be easily obtained from keras.datasets.fashion_mnist in form of tuple of train set and test set.
 ### This is a basic model without using any data augmentation
 ### The training accuracy is 94.52% and the test accuracy is 89.78 % 
+### Note : The model has been trained without the use of GPU
